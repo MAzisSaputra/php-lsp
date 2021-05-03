@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins',sans-serif;
+}
+.navbar{
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.app{
+    padding: 6px 12px 6px 12px;
+}
+.text-link-navbar{
+    text-decoration: none;
+    font-weight: normal;
+    color: #000;
+}
+.text-link{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 10px;
+    font-weight: bold;
+    color: #000;
+}
+
